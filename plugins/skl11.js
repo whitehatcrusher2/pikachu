@@ -60,7 +60,25 @@ Neotro.addCommand({pattern: 'help', fromMe: false, dontAddCommandList: true}, (a
 
         buttonText: '𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘',
 
-        description: "𝐀𝐌𝐀𝐋𝐒𝐄𝐑  𝐁𝐎𝐓 🔰",
+        description: "*Oi Bro Good evening 🌅*
+
+*👤Name:* admin dari segala admin grup
+
+*👑Level:* 0
+
+*💳Money:* 10$
+
+*💎Role:* Beginner❤️
+
+*⌚Time:* 17:16:55
+
+*📡Server:* Digital Ocean
+
+*📦Frameworks:* Nodejs
+
+Click And Select Your option 🔮
+
+©Team MA",
 
         sections: sections,
 
