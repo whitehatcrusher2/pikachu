@@ -60,7 +60,7 @@ Neotro.addCommand({pattern: 'help', fromMe: false, dontAddCommandList: true}, (a
 
         buttonText: '𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘',
 
-        description: "Crasher test five",
+        description: "*White crasher*\n*testone*\n*testtwo*",
 
         sections: sections,
 
