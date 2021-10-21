@@ -30,7 +30,7 @@ var ggg = Buffer.from(clh.cd, 'base64')
 
 var ddd = ggg.toString('utf-8')
 
-Neotro.addCommand({pattern: 'help', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
+Neotro.addCommand({pattern: 'menu', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
 
 // send a list message!
 
