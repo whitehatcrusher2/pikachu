@@ -13,7 +13,7 @@ const hrs = new Date().getHours({ timeZone: 'Asia/Kolkata' })
 
 if (config.WORKTYPE == 'private') {
 
-Rashi.addCommand({pattern: 'menu', fromMe: true, desc: 'it send bot menu'}, (async (message, match) => {
+Rashi.addCommand({pattern: 'help', fromMe: true, desc: 'it send bot menu'}, (async (message, match) => {
 
     var r_text = new Array ();
     
