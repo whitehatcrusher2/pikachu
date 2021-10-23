@@ -147,6 +147,9 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if (!!message.mention && message.mention[0] == '919495944164@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/Adarshmention.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
+    if (!!message.mention && message.mention[0] == '918281657461@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/abru.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
+    }
 const array = ['Msd','Vijay']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
