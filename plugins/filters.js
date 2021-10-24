@@ -123,7 +123,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/Adarshb
         if (!!message.mention && message.mention[0] == '918281657461@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/abru.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
-const array = ['Akhil','Welcome','abru','shambu','menu','Adarsh','FF','Hermit','crasher','Crasher']
+const array = ['Akhil','abru','shambu','menu','Adarsh','FF','Hermit','crasher','Crasher']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -153,7 +153,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/Adarshm
     if (!!message.mention && message.mention[0] == '918281657461@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/abru.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
-const array = ['Msd','abru','Vijay']
+const array = ['Msd','abru','Hermit','Vijay']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
