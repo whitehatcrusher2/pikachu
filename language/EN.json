@@ -127,7 +127,7 @@
         },
         "memes": {
             "MEMES_DESC": "Photo memes you replied to.",
-            "NEED_REPLY": "*Reply to a photo!*",
+            "NEED_REPLY": "*ᴘʜᴏᴛᴏ ᴏʀ ᴠɪᴅᴇᴏ ʀᴇᴘʟʏ ᴀᴀʏɪᴛᴛ ɪᴅᴇ 🥱*",
             "DOWNLOADING": "```Downloading media & making meme...```"
         },
         "log": {
@@ -166,7 +166,7 @@
         },
         "removebg": {
             "REMOVEBG_DESC": "Removes the background of the photos.",
-            "NEED_PHOTO": "*photo thaa mister!*",
+            "NEED_PHOTO": "*ᴘʜᴏᴛᴏ ᴍᴇɴᴛɪᴏɴ chey🥱!*",
             "NO_API_KEY": "*Api key illa aliyaa*\n```remove.bg login for apikey```",
             "RBGING": "```Removing...```"
         },
@@ -184,7 +184,7 @@
             "TTS_DESC": "It converts text to sound.",
             "TTS_ERROR": "```Error, Speech example of your sentence couldn't be made!```",
             "SONG_DESC": "Uploads the song you wrote.",
-            "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
+            "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song white crasher comming```",
             "NO_RESULT": "*I couldn't find anything :(*",
             "DOWNLOADING_SONG": "\nʜᴇͧʀᷤᴍͤɪͬ† ⚚ ᴘɪⷡᴋⷪᴀⷮᴄᷤʜᴜ *ɪѕ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ*\n *Please Wait a Few Minutes*\n",
             "UPLOADING_SONG": "\n*Ѕᴏɴɢ ɪѕ ᴜᴘʟᴏᴀᴅɪɴɢ*\n",
