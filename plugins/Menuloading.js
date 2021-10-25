@@ -4,7 +4,7 @@ const fs = require('fs');
 const axios = require('axios');
 const Config = require('../config');
 const Ln = "*For loading menu*"
- const code = "꧂               ㄱ\n꧂ *_ʟᴏᴀᴅɪɴɢ_*... \nㄴ             ꧁" 
+ const code = "ㅤ                ㄱ\nㅤ *_ʟᴏᴀᴅɪɴɢ_*... \nㄴ" 
 {
     
       Asena.addCommand({pattern: 'menu', fromMe: true, desc: Ln,}, (async (message, match) => {
